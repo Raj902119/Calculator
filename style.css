@@ -20,6 +20,7 @@ h1{
     width: 100%;
     background: #F7FFE5;
     padding: 2%;
+    margin: 2%;
     border-radius: 15px;
     box-shadow: 0 5px 10px rgba(0, 0, 0, 0.1);
 }
